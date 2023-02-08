@@ -1,5 +1,5 @@
 <template>
-  <h1>Color Picker Game</h1>
+  <h1>color Picker Game</h1>
 
   <div>{{ message }}</div>
 
