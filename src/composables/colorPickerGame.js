@@ -19,4 +19,4 @@ const colorPickerGame = () => {
     return { colors, message, matchColor };
 }
 
-export default colorPickerGame;
+export default colorPickerGame; 
